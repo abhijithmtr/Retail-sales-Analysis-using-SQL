@@ -105,21 +105,8 @@ Select  category,gender, count(transactions_id) from retail
 group by gender,category
 order by 1
 
--- Q7. Write a SQL query to calculate the average sale for each month.
 
 
-
--- 7.1 Find out the best selling month in each year.
-
-
-
--- Q8. Write a SQL query to find the top 5 customers based on the highest total sales.
-
-
-
--- Q9. Write a SQL query to find the number of unique customers who purchased items from each category.
-
--- Q10. Write a SQL query to create each shift and number of orders
 
 
 
